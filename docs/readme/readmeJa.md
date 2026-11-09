@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">デスクトップ版をダウンロード</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">ユーザーガイド</a> ·
   <a href="https://api.toonflow.net/console/plugIn">プラグインマーケット</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">開発者向けドキュメント</a> ·
-  <a href="https://api.toonflow.net/">公式モデルプラットフォーム</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">開発者向けドキュメント</a>
 </p>
-
----
-
-## 1. 💛 スポンサーと支援
-
-Toonflow オープンソースプロジェクトをご支援くださるパートナーの皆様に感謝します。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="秘塔（Metaso）" height="28" valign="middle" /> <strong>秘塔（Metaso）</strong></a>
-      <br />
-      <sub>コストパフォーマンスに優れた MiniMax H3 動画生成サービスを提供。768P は 1 秒あたりわずか 0.09 人民元、2K は 0.15 人民元。ネイティブ 2K、音声と映像の同期に対応し、API は OpenAI プロトコルと互換性があります。ComfyUI や無限キャンバスにも対応し、GPU を自分で用意する必要はありません。<a href="https://metaso.cn/minimax-h3/?s=toon">専用リンクから登録</a>すると、無料利用枠と限定特典を受け取れます。ビジネスに関するお問い合わせは WeChat の metasota12 まで。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>APIMart による本プロジェクトへのご支援に感謝します！APIMart は AI 画像・動画生成に特化した低価格 API プラットフォームです。GPT-Image-2 は 1 枚あたり $0.006 からで、1 ドルで 160 枚以上の画像を生成できます。画像と動画に共通の非同期 API を使用し、タスクを送信して ID を取得すると、結果はコールバックで受け取れます。1 万枚の一括処理でもタイムアウトせず、モデルを変更してもコードの修正は不要。従量課金制で月額料金はありません。こちらの<a href="https://go.apimart.ai/gh-toonflow-app">登録リンク</a>から登録して利用を開始できます。</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="优云智算（CompShare）" height="28" valign="middle" /> <strong>优云智算（CompShare）</strong></a>
-      <br />
-      <sub>优云智算（CompShare）は、コストパフォーマンスに優れた H3 動画生成サービスを提供しています。テキストからの動画生成、開始・終了フレームの指定、オムニリファレンスに対応。最長 30 秒の動画とネイティブ 2K 画質をサポートし、768P は 1 秒あたりわずか 0.08 人民元です。API 呼び出し、企業向けの大量同時処理、セルフサービスでの請求書発行にも対応しています。</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">専用リンクから登録</a>すると、プラットフォームで使える 5 人民元分のお試しクレジットを無料で受け取れます！</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉スポンサーになる👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="ビジネス提携用 WeChat QR コード" width="200" />
-</p>
-
-<p align="center"><sub>こちらの連絡先はビジネス提携専用で、使い方などのサポートは行っていません。使い方に関するご質問はコミュニティグループでご相談ください。機能要望や不具合はフィードバックフォームからお送りいただけます。ご理解のほどよろしくお願いいたします。</sub></p>
-
-</details>
 
 ---
 

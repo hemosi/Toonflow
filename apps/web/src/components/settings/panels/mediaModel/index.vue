@@ -31,7 +31,6 @@
       </el-card>
     </div>
     <div class="providerActions">
-      <el-button class="addButton" :icon="IconPlus" @click="openAdd('builtin')">添加供应商</el-button>
       <el-button class="addButton" :icon="IconSettings" @click="openAdd('custom')">添加自定义供应商</el-button>
     </div>
     <component :is="mediaProviderDialog" v-model="providerDialogVisible" :mode="addMode" :provider="editingSourceProvider" @added="saveProviderItem" @saved="saveProviderItem" />
@@ -44,7 +43,7 @@ import { translate } from "@toonflow/i18n/vue";
 import axios from "axios";
 import { computed, defineAsyncComponent, onMounted, onBeforeUnmount, ref, shallowRef, type Component } from "vue";
 import { ElMessage } from "element-plus";
-import { IconPlus, IconSettings, IconEdit, IconTrash, IconDownload, IconCode } from "@tabler/icons-vue";
+import { IconSettings, IconEdit, IconTrash, IconDownload, IconCode } from "@tabler/icons-vue";
 import type { MediaProvider } from "@toonflow/provider-web/types";
 import { saveSettings } from "@/stores/settings";
 import { invalidateNodeModels } from "@toonflow/nodes-scaffold/nodeAi";

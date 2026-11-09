@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">डाउनलोड</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">उपयोगकर्ता मार्गदर्शिका</a> ·
   <a href="https://api.toonflow.net/console/plugIn">प्लगइन मार्केटप्लेस</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">डेवलपर दस्तावेज़</a> ·
-  <a href="https://api.toonflow.net/">आधिकारिक मॉडल प्लेटफ़ॉर्म</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">डेवलपर दस्तावेज़</a>
 </p>
-
----
-
-## 1. 💛 प्रायोजक और सहयोग
-
-Toonflow ओपन-सोर्स परियोजना का समर्थन करने वाले निम्नलिखित भागीदारों का धन्यवाद।
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>किफ़ायती MiniMax H3 वीडियो निर्माण: 768P पर केवल ¥0.09/सेकंड और 2K पर ¥0.15/सेकंड (CNY)। अपने GPU की व्यवस्था किए बिना नेटिव 2K, समकालिक ऑडियो और वीडियो, OpenAI-संगत API, ComfyUI और असीमित कैनवस का उपयोग करें। बोनस क्रेडिट और विशेष ऑफ़र पाने के लिए <a href="https://metaso.cn/minimax-h3/?s=toon">इस विशेष लिंक से पंजीकरण करें</a>। व्यावसायिक पूछताछ के लिए WeChat पर metasota12 से संपर्क करें।</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>इस परियोजना को प्रायोजित करने के लिए APIMart का धन्यवाद! APIMart, AI से चित्र और वीडियो बनाने का एक किफ़ायती API प्लेटफ़ॉर्म है। GPT-Image-2 की कीमत प्रति चित्र $0.006 से शुरू होती है, यानी $1 में 160 से अधिक चित्र। चित्र और वीडियो के लिए एक ही असिंक्रोनस API है: कार्य भेजें, उसकी ID पाएँ और कॉलबैक से परिणाम प्राप्त करें। टाइमआउट के बिना 10,000 चित्रों के बैच संसाधित करें और कोड बदले बिना मॉडल बदलें। मासिक शुल्क के बिना, जितना उपयोग करें उतना भुगतान करें। शुरू करने के लिए <a href="https://go.apimart.ai/gh-toonflow-app">यहाँ पंजीकरण करें</a>।</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>CompShare किफ़ायती H3 वीडियो निर्माण प्रदान करता है, जिसमें टेक्स्ट से वीडियो, पहले और अंतिम फ़्रेम का नियंत्रण और संयुक्त संदर्भ मोड शामिल हैं। नेटिव 2K में 30 सेकंड तक के वीडियो बनाएँ; 768P की कीमत केवल CNY 0.08 प्रति सेकंड है। API एक्सेस, उद्यमों के लिए उच्च समवर्ती क्षमता और स्वयं चालान प्राप्त करने की सुविधा उपलब्ध है।</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">इस विशेष लिंक से पंजीकरण करें</a> और प्लेटफ़ॉर्म आज़माने के लिए CNY 5 के मुफ़्त क्रेडिट पाएँ!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 प्रायोजक बनें 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="व्यावसायिक पूछताछ के लिए WeChat QR कोड" width="200" />
-</p>
-
-<p align="center"><sub>यह संपर्क केवल व्यावसायिक पूछताछ के लिए है और तकनीकी सहायता नहीं देता। उपयोग संबंधी सवालों के लिए कृपया समुदाय समूहों में शामिल हों। नई सुविधाओं के अनुरोध और बग फ़ीडबैक फ़ॉर्म से भेजें। आपके सहयोग के लिए धन्यवाद।</sub></p>
-
-</details>
 
 ---
 

@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">تنزيل</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">دليل المستخدم</a> ·
   <a href="https://api.toonflow.net/console/plugIn">سوق الإضافات</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">وثائق المطورين</a> ·
-  <a href="https://api.toonflow.net/">المنصة الرسمية للنماذج</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">وثائق المطورين</a>
 </p>
-
----
-
-## 1. 💛 الرعاة والدعم
-
-نشكر الشركاء التاليين على دعم مشروع Toonflow مفتوح المصدر.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>إنشاء فيديو باستخدام MiniMax H3 بتكلفة مناسبة: فقط ¥0.09 للثانية بدقة 768P و¥0.15 للثانية بدقة 2K، باليوان الصيني (CNY). يدعم دقة 2K الأصلية، ومزامنة الصوت والفيديو، وواجهة API متوافقة مع OpenAI، وComfyUI، واللوحات اللانهائية، دون الحاجة إلى تشغيل وحدة GPU خاصة بك. <a href="https://metaso.cn/minimax-h3/?s=toon">سجّل عبر هذا الرابط المخصص</a> للحصول على أرصدة إضافية وعروض حصرية. للاستفسارات التجارية، تواصل مع metasota12 على WeChat.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>نشكر APIMart على رعاية هذا المشروع! APIMart منصة API اقتصادية لإنشاء الصور والفيديو بالذكاء الاصطناعي. تبدأ تكلفة GPT-Image-2 من $0.006 للصورة، أي أكثر من 160 صورة مقابل $1. تستخدم الصور والفيديو واجهة API واحدة غير متزامنة: أرسل المهمة، واحصل على معرّفها، وتلقّ النتائج عبر استدعاء راجع. عالج دفعات من 10,000 صورة دون انتهاء مهلة الطلبات، وبدّل النماذج دون تعديل الشيفرة. ادفع حسب الاستخدام دون رسوم شهرية. <a href="https://go.apimart.ai/gh-toonflow-app">سجّل هنا</a> للبدء.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>تقدم CompShare إنشاء فيديو باستخدام H3 بتكلفة مناسبة، مع تحويل النص إلى فيديو، والتحكم في الإطارين الأول والأخير، وأوضاع مرجعية شاملة. أنشئ مقاطع تصل مدتها إلى 30 ثانية بدقة 2K الأصلية، مع سعر لا يتجاوز CNY 0.08 للثانية بدقة 768P. تدعم الوصول عبر API، ومعالجة عدد كبير من الطلبات المتزامنة للشركات، وإصدار الفواتير ذاتيًا.</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">سجّل عبر هذا الرابط المخصص</a> للحصول على رصيد تجريبي مجاني للمنصة بقيمة CNY 5!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 كن راعيًا 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="رمز QR على WeChat للاستفسارات التجارية" width="200" />
-</p>
-
-<p align="center"><sub>وسيلة الاتصال هذه مخصصة للاستفسارات التجارية فقط، ولا تقدم دعمًا تقنيًا. لأسئلة الاستخدام، يرجى الانضمام إلى مجموعات المجتمع. أرسل طلبات الميزات وبلاغات الأخطاء عبر نموذج الملاحظات. شكرًا لتفهمك.</sub></p>
-
-</details>
 
 ---
 

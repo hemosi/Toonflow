@@ -105,9 +105,6 @@ import modelEditor from "./modelEditorDialog.vue";
 import type { MediaProviderModel } from "./types";
 import type { ProviderConfiguration, ProviderDescription, ProviderInspection, ProviderKind } from "./providerTypes";
 import deepSeekSource from "@toonflow/providers/language/deepSeek?raw";
-import apiMartSource from "@toonflow/providers/media/apiMart?raw";
-import metasoSource from "@toonflow/providers/media/metaso?raw";
-import compshareSource from "@toonflow/providers/media/compshare?raw";
 import "element-plus/es/components/alert/style/css";
 import "element-plus/es/components/button/style/css";
 import "element-plus/es/components/dialog/style/css";
@@ -128,15 +125,12 @@ const visible = defineModel<boolean>({ default: false });
 const emit = defineEmits<{ save: [provider: ProviderConfiguration]; reload: [] }>();
 const presets = [
   { kind: "text", id: "deepSeek", label: "DeepSeek", source: deepSeekSource },
-  { kind: "media", id: "apiMart", label: "APIMart", source: apiMartSource },
-  { kind: "media", id: "metaso", label: "秘塔", source: metasoSource },
-  { kind: "media", id: "compshare", label: "优刻得", source: compshareSource },
 ];
 const availablePresets = computed(() => presets.filter(item => item.kind === props.kind));
 const method = ref("manual");
 const methods = computed(() => [
   ...(props.kind === "text" ? [{ label: translate("手动配置"), value: "manual" }] : []),
-  { label: translate("内置预设"), value: "preset" }, { label: translate("粘贴代码"), value: "code" }, { label: translate("文件导入"), value: "file" },
+  ...(availablePresets.value.length ? [{ label: translate("内置预设"), value: "preset" }] : []), { label: translate("粘贴代码"), value: "code" }, { label: translate("文件导入"), value: "file" },
 ]);
 const source = ref("");
 const inspectedSource = ref("");

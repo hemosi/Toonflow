@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">I-download</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">Gabay sa Paggamit</a> ·
   <a href="https://api.toonflow.net/console/plugIn">Pamilihan ng mga Plugin</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Dokumentasyon para sa mga Developer</a> ·
-  <a href="https://api.toonflow.net/">Opisyal na Platform ng mga Modelo</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Dokumentasyon para sa mga Developer</a>
 </p>
-
----
-
-## 1. 💛 Mga Sponsor at Suporta
-
-Salamat sa mga sumusunod na katuwang sa pagsuporta sa open-source na proyektong Toonflow.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>Abot-kayang pagbuo ng video gamit ang MiniMax H3: ¥0.09/segundo lamang sa 768P at ¥0.15/segundo sa 2K (CNY). Sinusuportahan nito ang katutubong 2K, sabay na audio at video, API na tugma sa OpenAI, ComfyUI, at walang-hanggang canvas, nang hindi kailangang mag-deploy ng sariling GPU. <a href="https://metaso.cn/minimax-h3/?s=toon">Magparehistro gamit ang espesyal na link na ito</a> upang makatanggap ng mga bonus credit at eksklusibong alok. Para sa mga usaping pangnegosyo, kontakin ang metasota12 sa WeChat.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>Salamat sa APIMart sa pag-sponsor ng proyektong ito! Ang APIMart ay isang abot-kayang API platform para sa pagbuo ng mga larawan at video gamit ang AI. Nagsisimula ang GPT-Image-2 sa $0.006 bawat larawan, o mahigit 160 larawan sa halagang $1. Iisang asynchronous API ang ginagamit para sa larawan at video: magsumite ng gawain, kunin ang ID nito, at tanggapin ang resulta sa pamamagitan ng callback. Magproseso ng mga batch na may 10,000 larawan nang walang timeout, at magpalit ng modelo nang hindi binabago ang code. Magbayad ayon sa paggamit, nang walang buwanang bayarin. <a href="https://go.apimart.ai/gh-toonflow-app">Magparehistro rito</a> upang makapagsimula.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>Nag-aalok ang CompShare ng abot-kayang pagbuo ng H3 video, kabilang ang text-to-video, pagkontrol sa una at huling frame, at mga mode na gumagamit ng pinagsamang sanggunian. Makagawa ng video na hanggang 30 segundo sa katutubong 2K; CNY 0.08 bawat segundo lamang para sa 768P. Sinusuportahan ang paggamit ng API, maramihang sabayang kahilingan para sa mga negosyo, at sariling pagkuha ng invoice.</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">Magparehistro gamit ang espesyal na link na ito</a> upang makatanggap ng CNY 5 na libreng credit para masubukan ang platform!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 Maging Sponsor 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="QR code sa WeChat para sa mga usaping pangnegosyo" width="200" />
-</p>
-
-<p align="center"><sub>Para lamang sa pakikipag-ugnayang pangnegosyo ang contact na ito at hindi ito nagbibigay ng teknikal na suporta. Para sa mga tanong sa paggamit, sumali sa mga grupo ng komunidad. Isumite ang mga mungkahing feature at bug sa feedback form. Salamat sa pag-unawa.</sub></p>
-
-</details>
 
 ---
 

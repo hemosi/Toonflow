@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">다운로드</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">사용 가이드</a> ·
   <a href="https://api.toonflow.net/console/plugIn">플러그인 마켓</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">개발자 문서</a> ·
-  <a href="https://api.toonflow.net/">공식 모델 플랫폼</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">개발자 문서</a>
 </p>
-
----
-
-## 1. 💛 후원과 지원
-
-Toonflow 오픈 소스 프로젝트를 지원해 주시는 다음 파트너 여러분께 감사드립니다.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>합리적인 비용의 MiniMax H3 영상 생성: 768P는 초당 단 ¥0.09, 2K는 초당 ¥0.15(CNY)입니다. 네이티브 2K, 영상·음성 동기화, OpenAI 호환 API, ComfyUI, 무한 캔버스를 지원하며 GPU를 직접 구축할 필요가 없습니다. <a href="https://metaso.cn/minimax-h3/?s=toon">전용 링크로 가입</a>하면 보너스 크레딧과 특별 혜택을 받을 수 있습니다. 비즈니스 문의는 WeChat의 metasota12로 연락해 주세요.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>프로젝트를 후원해 주신 APIMart에 감사드립니다! APIMart는 AI 이미지·영상 생성용 저렴한 API 플랫폼입니다. GPT-Image-2는 이미지당 $0.006부터 시작하여 $1로 160장 이상을 생성할 수 있습니다. 이미지와 영상에 하나의 비동기 API를 사용하며, 작업을 제출해 ID를 받은 뒤 콜백으로 결과를 받습니다. 이미지 10,000장을 일괄 처리해도 시간 초과가 없으며 코드 수정 없이 모델을 변경할 수 있습니다. 월정액 없이 사용한 만큼만 결제합니다. <a href="https://go.apimart.ai/gh-toonflow-app">여기에서 가입</a>하여 시작하세요.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>CompShare는 텍스트 기반 영상 생성, 첫 프레임·마지막 프레임 제어, 통합 참조 모드를 포함한 합리적인 H3 영상 생성 서비스를 제공합니다. 최대 30초 길이의 네이티브 2K 영상을 생성할 수 있으며 768P는 초당 단 CNY 0.08입니다. API 사용, 기업용 높은 동시 처리량, 셀프서비스 청구서 발급을 지원합니다.</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">전용 링크로 가입</a>하면 CNY 5 상당의 무료 체험 크레딧을 드립니다!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 후원 참여하기 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="비즈니스 문의용 WeChat QR 코드" width="200" />
-</p>
-
-<p align="center"><sub>이 연락처는 비즈니스 문의 전용이며 기술 지원은 제공하지 않습니다. 사용 관련 질문은 커뮤니티 그룹에서, 기능 요청과 버그 제보는 피드백 양식으로 보내 주세요. 양해해 주셔서 감사합니다.</sub></p>
-
-</details>
 
 ---
 

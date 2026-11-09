@@ -150,51 +150,8 @@ Toonflow is an open-source AI creation tool for short dramas, animated comics an
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">Download</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">User Guide</a> ·
   <a href="https://api.toonflow.net/console/plugIn">Plugin Marketplace</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Developer Documentation</a> ·
-  <a href="https://api.toonflow.net/">Official Model Platform</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Developer Documentation</a>
 </p>
-
----
-
-## 1. 💛 Sponsors and Support
-
-Thank you to the following partners for supporting the Toonflow open-source project.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>Cost-effective MiniMax H3 video generation: just ¥0.09/second at 768P and ¥0.15/second at 2K (CNY). Supports native 2K, synchronized audio and video, an OpenAI-compatible API, ComfyUI, and infinite canvases, without deploying your own GPU. <a href="https://metaso.cn/minimax-h3/?s=toon">Register through this dedicated link</a> to receive bonus credits and exclusive offers. For business inquiries, contact metasota12 on WeChat.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>Thank you to APIMart for sponsoring this project! APIMart is an affordable API platform for AI image and video generation. GPT-Image-2 starts at $0.006 per image, delivering 160+ images for $1. Images and videos share one asynchronous API: submit a task, receive its ID, and get results through a callback. Process batches of 10,000 images without timeouts and switch models without changing code. Pay as you go, with no monthly fees. <a href="https://go.apimart.ai/gh-toonflow-app">Register here</a> to get started.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>CompShare offers cost-effective H3 video generation, including text-to-video, first- and last-frame control, and all-in-one reference modes. Generate videos up to 30 seconds long in native 2K, with 768P priced at just CNY 0.08 per second. Supports API access, high concurrency for enterprises, and self-service invoicing.</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">Register through this dedicated link</a> to receive CNY 5 in free platform trial credits!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 Become a Sponsor 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="WeChat QR code for business inquiries" width="200" />
-</p>
-
-<p align="center"><sub>This contact is for business inquiries only and does not provide technical support. For usage questions, please join the community groups. Submit feature requests and bugs through the feedback form. Thank you for your understanding.</sub></p>
-
-</details>
 
 ---
 

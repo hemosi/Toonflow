@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">İndir</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">Kullanıcı Kılavuzu</a> ·
   <a href="https://api.toonflow.net/console/plugIn">Eklenti Pazarı</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Geliştirici Belgeleri</a> ·
-  <a href="https://api.toonflow.net/">Resmî Model Platformu</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Geliştirici Belgeleri</a>
 </p>
-
----
-
-## 1. 💛 Sponsorlar ve Destek
-
-Toonflow açık kaynak projesini destekleyen aşağıdaki iş ortaklarına teşekkür ederiz.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>Uygun maliyetli MiniMax H3 video üretimi: 768P için saniyede yalnızca ¥0.09, 2K için ¥0.15 (CNY, Çin yuanı). Kendi GPU altyapınızı kurmadan doğal 2K çözünürlük, eşzamanlı ses ve video, OpenAI uyumlu API, ComfyUI ve sonsuz tuval desteği sunar. Ek kredi ve özel fırsatlardan yararlanmak için <a href="https://metaso.cn/minimax-h3/?s=toon">bu özel bağlantı üzerinden kaydolun</a>. Ticari sorularınız için WeChat üzerinden metasota12 ile iletişime geçin.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>Bu projeye sponsor olan APIMart’a teşekkür ederiz! APIMart, yapay zekâyla görsel ve video üretimi için uygun fiyatlı bir API platformudur. GPT-Image-2 görsel başına $0.006’dan başlar; $1 ile 160’tan fazla görsel üretilebilir. Görseller ve videolar aynı asenkron API’yi kullanır: görevi gönderin, kimliğini alın ve sonuçları geri çağrı yoluyla edinin. 10,000 görsellik toplu işleri zaman aşımı olmadan işleyin, kodu değiştirmeden model değiştirin. Aylık ücret olmadan kullandıkça ödeyin. Başlamak için <a href="https://go.apimart.ai/gh-toonflow-app">buradan kaydolun</a>.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>CompShare, metinden video üretimi, ilk ve son kare kontrolü ve hepsi bir arada referans modları dâhil olmak üzere uygun maliyetli H3 video üretimi sunar. Doğal 2K çözünürlükte 30 saniyeye kadar videolar üretin; 768P için fiyat saniyede yalnızca CNY 0.08’dir. API erişimi, kurumlar için yüksek eşzamanlılık ve kendi kendine fatura oluşturma olanağı sağlar.</sub>
-      <br /><br />
-      <sub>🎁 Platformu denemek için CNY 5 değerinde ücretsiz kredi almak üzere <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">bu özel bağlantı üzerinden kaydolun</a>!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 Sponsor Olun 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="Ticari sorular için WeChat QR kodu" width="200" />
-</p>
-
-<p align="center"><sub>Bu iletişim kanalı yalnızca ticari görüşmeler içindir; teknik destek sunmaz. Kullanımla ilgili sorularınız için topluluk gruplarına katılın. Özellik isteklerini ve hata bildirimlerini geri bildirim formuyla iletin. Anlayışınız için teşekkür ederiz.</sub></p>
-
-</details>
 
 ---
 

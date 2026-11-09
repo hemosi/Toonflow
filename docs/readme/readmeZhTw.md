@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">下載桌面版</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">使用教學</a> ·
   <a href="https://api.toonflow.net/console/plugIn">外掛市集</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">開發者文件</a> ·
-  <a href="https://api.toonflow.net/">官方模型平台</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">開發者文件</a>
 </p>
-
----
-
-## 1. 💛 贊助與支持
-
-感謝以下合作夥伴對 Toonflow 開源專案的支持。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="秘塔" height="28" valign="middle" /> <strong>秘塔</strong></a>
-      <br />
-      <sub>提供高性價比的 MiniMax H3 影片生成服務：768P 僅人民幣 0.09 元/秒，2K 僅人民幣 0.15 元/秒；支援原生 2K、影音同步，API 相容 OpenAI 協定，同時支援 ComfyUI、無限畫布，無需自行部署 GPU。透過<a href="https://metaso.cn/minimax-h3/?s=toon">專屬連結註冊</a>即可領取贈送額度及專屬優惠，商務洽談可加微信 metasota12。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>感謝 APIMart 贊助本專案！專注於 AI 圖片與影片生成的平價 API 平台，GPT-Image-2 每張低至 $0.006，1 美元可生成 160+ 張圖片；圖片與影片共用一套非同步 API，提交任務取得 ID，透過回呼取得結果，批次處理上萬張也不逾時，切換模型無需修改程式碼，按用量計費、無月費。透過此<a href="https://go.apimart.ai/gh-toonflow-app">註冊連結</a>註冊即可使用。</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="優雲智算" height="28" valign="middle" /> <strong>優雲智算</strong></a>
-      <br />
-      <sub>優雲智算提供高性價比 H3 影片生成服務，涵蓋文字生成影片、首尾影格及全能參考。支援最長 30 秒影片、原生 2K 畫質，768P 僅人民幣 0.08 元/秒。支援 API 呼叫、企業高併發、自助開立發票。</sub>
-      <br /><br />
-      <sub>🎁 透過<a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">專屬連結註冊</a>，即可獲得免費人民幣 5 元平台體驗金！</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉成為贊助商👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="商務合作微信 QR Code" width="200" />
-</p>
-
-<p align="center"><sub>此聯絡方式僅供商務合作洽談，不提供問題解答。使用問題歡迎在交流群交流，需求與 BUG 可透過回饋表提交。感謝理解。</sub></p>
-
-</details>
 
 ---
 

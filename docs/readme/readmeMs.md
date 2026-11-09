@@ -150,51 +150,8 @@
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">Muat Turun</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">Panduan Pengguna</a> ·
   <a href="https://api.toonflow.net/console/plugIn">Pasaran Pemalam</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Dokumentasi Pembangun</a> ·
-  <a href="https://api.toonflow.net/">Platform Model Rasmi</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">Dokumentasi Pembangun</a>
 </p>
-
----
-
-## 1. 💛 Penaja dan Sokongan
-
-Terima kasih kepada rakan kongsi berikut kerana menyokong projek sumber terbuka Toonflow.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="../images/sponsors/metaso.svg" alt="Metaso" height="28" valign="middle" /> <strong>Metaso</strong></a>
-      <br />
-      <sub>Penjanaan video MiniMax H3 pada kos berpatutan: hanya ¥0.09 sesaat pada 768P dan ¥0.15 sesaat pada 2K (CNY, yuan China). Menyokong resolusi 2K asli, audio dan video yang disegerakkan, API serasi OpenAI, ComfyUI serta kanvas tanpa had, tanpa perlu menyediakan GPU sendiri. <a href="https://metaso.cn/minimax-h3/?s=toon">Daftar melalui pautan khas ini</a> untuk menerima kredit bonus dan tawaran eksklusif. Untuk urusan perniagaan, hubungi metasota12 di WeChat.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="../images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>Terima kasih kepada APIMart kerana menaja projek ini! APIMart ialah platform API mampu milik untuk penjanaan imej dan video dengan AI. Harga GPT-Image-2 bermula pada $0.006 setiap imej, membolehkan lebih 160 imej dihasilkan dengan $1. Imej dan video menggunakan satu API tak segerak yang sama: hantar tugas, terima ID tugas tersebut dan dapatkan hasil melalui panggilan balik. Proses kelompok 10,000 imej tanpa tamat masa dan tukar model tanpa mengubah kod. Bayar mengikut penggunaan, tanpa yuran bulanan. <a href="https://go.apimart.ai/gh-toonflow-app">Daftar di sini</a> untuk bermula.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="../images/sponsors/compShare.png" alt="CompShare" height="28" valign="middle" /> <strong>CompShare</strong></a>
-      <br />
-      <sub>CompShare menawarkan penjanaan video H3 pada kos berpatutan, termasuk teks kepada video, kawalan bingkai pertama dan terakhir serta mod rujukan serba lengkap. Jana video sehingga 30 saat dalam resolusi 2K asli, dengan harga 768P hanya CNY 0.08 sesaat. Menyokong akses API, permintaan serentak berskala tinggi untuk perusahaan dan pengeluaran invois layan diri.</sub>
-      <br /><br />
-      <sub>🎁 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">Daftar melalui pautan khas ini</a> untuk menerima kredit percubaan platform percuma bernilai CNY 5!</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉 Jadi Penaja 👈</strong></summary>
-
-<p align="center">
-  <img src="../images/businessQr.png" alt="Kod QR WeChat untuk urusan perniagaan" width="200" />
-</p>
-
-<p align="center"><sub>Saluran hubungan ini hanya untuk urusan perniagaan dan tidak menyediakan sokongan teknikal. Untuk pertanyaan penggunaan, sila sertai kumpulan komuniti. Hantar permintaan ciri dan laporan pepijat melalui borang maklum balas. Terima kasih atas pemahaman anda.</sub></p>
-
-</details>
 
 ---
 
