@@ -102,6 +102,8 @@ export function registerAnonymousData() {
   }
 
   function report() {
+    return; // fork: 不向官方服务器上报使用数据
+
     if (!collecting || !privacySettings.value.dataCollectionEnabled) return;
     accountTime();
     controller?.abort();

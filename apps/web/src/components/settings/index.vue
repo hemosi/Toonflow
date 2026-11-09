@@ -99,6 +99,7 @@ const publicAccountPanel = { ...allSettingsPanels[0]!, get label() { return tran
 const settingsPanels = computed(() => allSettingsPanels.filter(item => {
   if (publicWeb.value && currentUser.value?.role === "user") return ["account", "general", "about"].includes(item.id);
   if (publicWeb.value && ["multiTenant", "deviceLink", "network", "mcp", "developer", "pluginMarket"].includes(item.id)) return false;
+  if (!publicWeb.value && ["account", "pluginMarket"].includes(item.id)) return false; // fork: 隐藏官方账号与余额、依赖官方账号的插件市场
   return !multiTenantEnabled.value || !["languageModel", "mediaModel", "developer"].includes(item.id);
 }).map(item => publicWeb.value && item.id === "account" ? publicAccountPanel : item));
 const activePanel = shallowRef(settingsPanels.value[0]!);

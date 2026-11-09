@@ -19,12 +19,14 @@ export async function createCreationApp(session: UserSession): Promise<App<Eleme
   app.use(createPinia().use(createPersistedState({ storage: settingsStorage })));
   app.use(router);
   await router.isReady();
-  if (session.user?.role !== "user") app.onUnmount(registerAnonymousData());
+  // fork: 不注册匿名数据上报
+  void registerAnonymousData;
   app.onUnmount(registerDownloads());
   if (!session.publicWeb) app.onUnmount(watch(multiTenantEnabled, enabled => { if (enabled) window.location.reload(); }));
   if (actualPlatform.isLocalDesktop && !session.publicWeb) {
     app.onUnmount(registerDesktopProtocol());
-    app.onUnmount(registerDesktopAutoUpdate());
+    // fork: 关闭自动更新，避免被官方版本覆盖
+    void registerDesktopAutoUpdate;
   }
   return app;
 }

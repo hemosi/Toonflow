@@ -1,3 +1,5 @@
+> 本仓库为 hemosi 的个人 fork：去掉了启动登录、首页广告、赞助商、官方模型平台入口、匿名数据上报和自动更新。上游：https://github.com/HBAI-Ltd/Toonflow-app （MIT）
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toonflow&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Toonflow" width="100%" />
 
 <p>
@@ -150,53 +152,8 @@ Toonflow 是面向短剧、漫剧和短视频创作者的开源 AI 创作工具�
   <a href="https://github.com/HBAI-Ltd/Toonflow-app/releases">下载客户端</a> ·
   <a href="https://qcn7xdsqgc4z.feishu.cn/docx/RXFqdgR2Xo0dXZxGfd0cZCGgnwf">使用教程</a> ·
   <a href="https://api.toonflow.net/console/plugIn">插件市场</a> ·
-  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">开发者文档</a> ·
-  <a href="https://api.toonflow.net/">官方模型平台</a>
+  <a href="https://qcn7xdsqgc4z.feishu.cn/docx/KNBNd9naqolsy6xjAOCcEAkqnRd">开发者文档</a>
 </p>
-
----
-
-## 1. 💛 赞助与支持
-
-感谢以下合作伙伴对 Toonflow 开源项目的支持。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://metaso.cn/minimax-h3/?s=toon"><img src="./docs/images/sponsors/metaso.svg" alt="秘塔" height="28" valign="middle" /> <strong>秘塔</strong></a>
-      <br />
-      <sub>秘塔科技提供高性价比的 MiniMax H3 视频生成服务：768P 仅 0.09 元/秒，2K 仅 0.15 元/秒。支持原生 2K、音画同步，API 兼容 OpenAI 协议，同时支持 ComfyUI、无限画布，无需自行部署 GPU。</sub>
-      <br /><br />
-      <sub>🎁 通过 <a href="https://metaso.cn/minimax-h3/?s=toon">专属链接注册</a>，即可领取赠送额度及专属优惠。商务对接可加微信：metasota12</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://go.apimart.ai/gh-toonflow-app"><img src="./docs/images/sponsors/apiMart.jpg" alt="APIMart" height="28" valign="middle" /> <strong>APIMart</strong></a>
-      <br />
-      <sub>感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此<a href="https://go.apimart.ai/gh-toonflow-app">注册链接</a>注册即可开用。</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow"><img src="./docs/images/sponsors/compShare.png" alt="优云智算" height="28" valign="middle" /> <strong>优云智算</strong></a>
-      <br />
-      <sub>优云智算提供高性价比 H3 视频生成服务，涵盖文生视频、首尾帧及全能参考。支持最长 30s 视频、原生 2K 画质，768P 仅 0.08 元/秒。支持 API 调用、企业高并发、自助开票。</sub>
-      <br /><br />
-      <sub>🎁 通过 <a href="https://www.compshare.cn/video-studio?ytag=GPU_YY_YX_git_toonflow">专属链接注册</a>，可得免费 5 元平台体验金！</sub>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>👉成为赞助商👈</strong></summary>
-
-<p align="center">
-  <img src="./docs/images/businessQr.png" alt="商务合作微信二维码" width="200" />
-</p>
-
-<p align="center"><sub>此联系方式仅用于商务合作接洽，不提供问题答疑。使用问题欢迎在交流群交流，需求与 BUG 可通过反馈表提交。感谢理解。</sub></p>
-
-</details>
 
 ---
 
@@ -418,12 +375,6 @@ bun run start:server
 - 个人远程使用可在自己的电脑上执行 `ssh -N -L 3000:127.0.0.1:3000 用户名@服务器地址`，保持连接后打开 `http://127.0.0.1:3000`，无需将服务器的 `3000` 端口向公网开放。
 - 直接安装时，配置、插件与工作区默认保存在仓库的 `data/`；Docker 安装则保存在数据卷内的 `/app/data/`。迁移或备份时请完整保留。进入页面后选择服务器工作区内的 `myProject`，更多项目可在对应的 `workspaces/` 下创建子目录。
 - 两种安装方式均包含系统 FFmpeg。模型服务的 API Key 仍需在页面内配置。
-
----
-
-### 4.5 云平台部署
-
-合作平台 [智星云](https://www.ai-galaxy.com/) 提供官方授权的 Toonflow 商用镜像，可直接使用预装环境。具体步骤见 [镜像部署图文教程](https://mp.weixin.qq.com/s/lq9X1ovQ1_TKeXMOLgicKg?scene=1)。
 
 ---
 
